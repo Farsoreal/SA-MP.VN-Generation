@@ -1,0 +1,5 @@
+[17:35:57] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampvn''
+[17:35:57] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampvn''
+[17:35:57] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampvn''
+[17:35:57] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampvn''
+[17:35:57] [plugins/mysql] mysql_tquery: invalid connection handle '1'

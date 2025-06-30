@@ -1,0 +1,12 @@
+
+
+
+
+
+
+1. Sử dụng xe tại cảng mới có thể tiến hành mua hàng hoá.
+2. Hàng hoá gồm nhiều loại mặt hàng theo các lĩnh vực khác nhau.
+3. Giá hàng hoá có thể biến động theo thị trường.
+4. Mỗi lĩnh vực là 1 kho riêng dùng để lưu trữ các nguyên, vật liệu, vật phẩm để các ngành nghề kế thừa sau có thể sử dụng.
+5. Hàng hoá mua được sau khi giao tới kho sẽ dc x ngẫu nhiên 10 - 40% tiền lời.
+6. Reset xe về bến cảng khi người chơi giao hàng xong, spawn cho người chơi một chiếc xe đạp.
